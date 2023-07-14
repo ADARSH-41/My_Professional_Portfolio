@@ -12,7 +12,7 @@ body{
 
 .bannerBgImage{
     height: 100vh;
-    background: url("/images/laptop.jpg");
+    background: url("https://unsplash.com/photos/gtZxq2Rpa_Y");
     background-size: cover;
     position: relative;
 }
